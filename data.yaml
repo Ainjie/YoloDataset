@@ -1,3 +1,4 @@
+path: /content/YoloDataset
 train: images/train
 val: images/validation  
 test: images/test
