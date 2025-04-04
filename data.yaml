@@ -1,0 +1,6 @@
+train: images/train
+val: images/validation  
+test: images/test
+
+nc: 3  
+names: ['ballon', 'joueur', 'arbitre']
